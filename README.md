@@ -2,9 +2,27 @@
 
 End-to-end telematics analytics solution for **PT Toyota-Astra Motor (TAM)**. The project integrates connected-car, customer, partner, and support data into a unified analytics layer and delivers **7 interactive dashboards** that monitor the full telematics lifecycle, from device registration and subscription to driving behavior, vehicle health, partner usage, and after-sales support.
 
-toyota-telematic-project/Telematic Status.jpg
-![Telematics Status](images/Telematic_Status.jpg)
+---
 
+## 🎯 Key Business Value
+
+- **Operational visibility:** single view of the connected-vehicle base across fleet and retail
+- **Process improvement:** funnel analysis pinpoints drop-offs in device, document, and app registration
+- **Customer insight:** demographics and driving behavior support targeted marketing and insurance products
+- **Proactive maintenance:** warning and device-health monitoring reduces downtime
+- **Service quality:** ERA ticket tracking improves response planning by area and category
+- **Data monetization:** partner usage tracking supports billing and partnership decisions with leasing and insurance companies
+
+---
+
+## 👤 My Role
+
+- Gathered requirements with business stakeholders and defined telematics KPIs
+- Designed ETL workflows using **SSIS**, with **Python** for data cleansing and transformation
+- Built data models and KPI logic in **SQL**
+- Implemented a unified virtual data layer with **Denodo** to integrate multiple sources
+- Designed and delivered 7 interactive dashboards with consistent filters and navigation
+  
 ---
 
 ## 📌 Project Highlights
@@ -64,7 +82,7 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 ### 1. Telematics Status Dashboard
 
-![Telematics Status](images/Telematic_Status.jpg)
+![Telematics Status](Telematic%20Status.jpg)
 
 **Purpose:** Executive overview of the entire telematics installed base and its activation pipeline.
 
@@ -83,7 +101,7 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 ### 2. Telematics Fleet Dashboard
 
-![Telematics Fleet](images/Telematic_Fleet.jpg)
+![Telematics Fleet](Telematic%20Fleet.jpg)
 
 **Purpose:** Monitor telematics adoption among corporate / fleet customers.
 
@@ -103,7 +121,7 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 ### 3. Telematics Retail Dashboard
 
-![Telematics Retail](images/Telematic_Retail.jpg)
+![Telematics Retail](Telematic%20Retail.jpg)
 
 **Purpose:** Track telematics adoption and sales progress for individual (retail) customers.
 
@@ -122,7 +140,7 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 ### 4. Telematics User Activity Dashboard
 
-![User Activity](images/User_Activity.jpg)
+![User Activity](User%20Activity.jpg)
 
 **Purpose:** Understand who the customers are and how they drive and use telematics features.
 
@@ -141,7 +159,7 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 ### 5. Telematics Vehicle Activity Dashboard
 
-![Vehicle Activity](images/Vehicle_Activity.jpg)
+![Vehicle Activity](Vehicle%20Activity.jpg)
 
 **Purpose:** Monitor vehicle health and telematics device reliability.
 
@@ -158,7 +176,7 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 ### 6. Telematics Support Dashboard (ERA)
 
-![ERA Support](images/Ticket_ERA_Support.jpg)
+![ERA Support](Ticket%20ERA%20Support.jpg)
 
 **Purpose:** Track after-sales and Emergency Roadside Assistance (ERA) ticket performance.
 
@@ -176,7 +194,7 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 ### 7. Telematics 3rd Party Monitoring Dashboard
 
-![3rd Party Monitoring](images/3rd_Party_Partner_Monitoring.jpg)
+![3rd Party Monitoring](3rd%20Party%20%26%20Partner%20Monitoring.jpg)
 
 **Purpose:** Monitor how leasing and insurance partners consume telematics data.
 
@@ -189,26 +207,6 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 **Business questions answered:** Which partners use telematics data the most? Which models generate the highest partner billing? Where are the opportunities for data monetization?
 
----
-
-## 🎯 Key Business Value
-
-- **Operational visibility:** single view of the connected-vehicle base across fleet and retail
-- **Process improvement:** funnel analysis pinpoints drop-offs in device, document, and app registration
-- **Customer insight:** demographics and driving behavior support targeted marketing and insurance products
-- **Proactive maintenance:** warning and device-health monitoring reduces downtime
-- **Service quality:** ERA ticket tracking improves response planning by area and category
-- **Data monetization:** partner usage tracking supports billing and partnership decisions with leasing and insurance companies
-
----
-
-## 👤 My Role
-
-- Gathered requirements with business stakeholders and defined telematics KPIs
-- Designed ETL workflows using **SSIS**, with **Python** for data cleansing and transformation
-- Built data models and KPI logic in **SQL**
-- Implemented a unified virtual data layer with **Denodo** to integrate multiple sources
-- Designed and delivered 7 interactive dashboards with consistent filters and navigation
 
 ---
 
