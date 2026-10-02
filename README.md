@@ -82,7 +82,7 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 ### 1. Telematics Status Dashboard
 
-![Telematics Status](Telematic%20Status.jpg)
+![Telematics Status](images/Telematic%20Status.jpg)
 
 **Purpose:** Executive overview of the entire telematics installed base and its activation pipeline.
 
@@ -101,7 +101,7 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 ### 2. Telematics Fleet Dashboard
 
-![Telematics Fleet](Telematic%20Fleet.jpg)
+![Telematics Fleet](images/Telematic%20Fleet.jpg)
 
 **Purpose:** Monitor telematics adoption among corporate / fleet customers.
 
@@ -121,7 +121,7 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 ### 3. Telematics Retail Dashboard
 
-![Telematics Retail](Telematic%20Retail.jpg)
+![Telematics Retail](images/Telematic%20Retail.jpg)
 
 **Purpose:** Track telematics adoption and sales progress for individual (retail) customers.
 
@@ -140,7 +140,7 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 ### 4. Telematics User Activity Dashboard
 
-![User Activity](User%20Activity.jpg)
+![User Activity](images/User%20Activity.jpg)
 
 **Purpose:** Understand who the customers are and how they drive and use telematics features.
 
@@ -159,7 +159,7 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 ### 5. Telematics Vehicle Activity Dashboard
 
-![Vehicle Activity](Vehicle%20Activity.jpg)
+![Vehicle Activity](images/Vehicle%20Activity.jpg)
 
 **Purpose:** Monitor vehicle health and telematics device reliability.
 
@@ -176,7 +176,7 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 ### 6. Telematics Support Dashboard (ERA)
 
-![ERA Support](Ticket%20ERA%20Support.jpg)
+![ERA Support](images/Ticket%20ERA%20Support.jpg)
 
 **Purpose:** Track after-sales and Emergency Roadside Assistance (ERA) ticket performance.
 
@@ -194,7 +194,7 @@ A **Home Page** button on each dashboard provides navigation back to the main me
 
 ### 7. Telematics 3rd Party Monitoring Dashboard
 
-![3rd Party Monitoring](3rd%20Party%20%26%20Partner%20Monitoring.jpg)
+![3rd Party Monitoring](images/3rd%20Party%20%26%20Partner%20Monitoring.jpg)
 
 **Purpose:** Monitor how leasing and insurance partners consume telematics data.
 
