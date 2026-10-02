@@ -2,7 +2,7 @@
 
 End-to-end telematics analytics solution for **PT Toyota-Astra Motor (TAM)**. The project integrates connected-car, customer, partner, and support data into a unified analytics layer and delivers **7 interactive dashboards** that monitor the full telematics lifecycle, from device registration and subscription to driving behavior, vehicle health, partner usage, and after-sales support.
 
-Telematic Status.jpg
+toyota-telematic-project/Telematic Status.jpg
 ![Telematics Status](images/Telematic_Status.jpg)
 
 ---
